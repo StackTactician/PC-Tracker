@@ -98,7 +98,3 @@ pyinstaller --onefile --noconsole main.py
 ## Disclaimer
 
 This tool is intended for tracking your own devices only. Unauthorized use on devices you don't own is illegal.
-
-## License
-
-MIT
